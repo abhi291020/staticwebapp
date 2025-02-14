@@ -1,1 +1,2 @@
 # staticwebapp
+Static webapp
